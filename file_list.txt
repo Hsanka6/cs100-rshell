@@ -1,0 +1,15 @@
+bin
+echo_test.txt
+file_list.txt
+grep_test.txt
+head_test.txt
+LICENSE
+makefile
+moreFiles.txt
+myls
+README.md
+SpecialDocs
+src
+testfile.txt
+testout.txt
+tests
